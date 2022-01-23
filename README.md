@@ -1,5 +1,5 @@
 # 🥕 당근찾기게임
-- https://achasan.github.io/carrot
+![](readme.gif)
 - 이전에 JavaScript를 통해서 만들었던 당근찾기게임을 올려놓은 Repository입니다.
 
 ## 게임방식
